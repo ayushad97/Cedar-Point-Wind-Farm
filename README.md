@@ -4,7 +4,7 @@ This repository contains a detailed case study, analyzing supply chain managemen
 
 ## 📊 Presentation
 
-- **[Cedar Point Wind Farm](./Cedar_Point_Wind_Farm_Case_Study.pdf)**  
+- [Download the Cedar Point Wind Farm Case Study](https://github.com/ayushad97/Cedar-Point-Wind-Farm/blob/main/Cedar%20Point%20Wind%20Farm%20Case%20Study.pdf?raw=true) 
   Topics covered:
   - Project overview and scale
   - Key supply chain components and logistics
