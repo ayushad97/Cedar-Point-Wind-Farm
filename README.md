@@ -39,7 +39,7 @@ This repository contains a detailed case study, analyzing supply chain managemen
 
 I’m Ayush Adhikari, a CSCP-certified supply chain professional passionate about integrating SCM principles into project environments to achieve operational success.
 
-Connect with me on https://www.linkedin.com/in/ayush-adhikari-484682288/
+Connect with me on [Linkedin](https://www.linkedin.com/in/ayush-adhikari-484682288/)
 ---
 
 > **“This wasn’t just a clean energy project. It was a clean execution project.”**
